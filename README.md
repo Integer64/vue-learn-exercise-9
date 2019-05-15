@@ -1,7 +1,6 @@
 # Udemy course "Vue JS 2 - The Complete Guide"
-## Exercise 7
+## Exercise 9
 
-> A Vue.js project
 
 ## Build Setup
 
